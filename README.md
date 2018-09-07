@@ -16,7 +16,7 @@ the Smart Contract. The wallet requires you to use FireFox browser to interact w
 3. Open Firefox and access http://localhost:3000
 4. Click on `choose` and start uploading your file
 5. Unlock your MetaMask Wallet and go to https://www.myetherwallet.com/#contracts
-6. Enter the contract address 0x59A2b6A0Db84ff5b221b571AB3b7eAaa8F888E85 and copy the ABI as listed below
+6. Enter the contract address `0x98A53d982cBF50275A3074b740E2f2f7Cb993998` (Ropsten) and copy the ABI as listed below
 7. TBD
 
 # BMD Wallet - Under Development
