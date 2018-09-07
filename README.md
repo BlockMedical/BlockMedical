@@ -11,6 +11,14 @@ https://github.com/BlockMedical/bc-ipfs is a web-based app that starts a local I
 a local `npm` web-server. Behind the scene, it also tap into Ethereum blockchain for you to interact with
 the Smart Contract. The wallet requires you to use FireFox browser to interact with Ethereum.
 
+1. Download the zip file from this Github repository https://github.com/BlockMedical/bc-ipfs/archive/draft-v0.1.zip
+2. Unzip it and run the command from a Terminal `run-dev.sh`
+3. Open Firefox and access http://localhost:3000
+4. Click on `choose` and start uploading your file
+5. Unlock your MetaMask Wallet and go to https://www.myetherwallet.com/#contracts
+6. Enter the contract address 0x59A2b6A0Db84ff5b221b571AB3b7eAaa8F888E85 and copy the ABI as listed below
+7. TBD
+
 # BMD Wallet - Under Development
 https://github.com/BlockMedical/BMDWallet is based on an iOS app from Qtum blockchain.
 We welcome the community to help out to build and enhance this to tap into our infrastructure and
