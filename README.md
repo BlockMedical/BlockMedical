@@ -11,7 +11,7 @@ https://github.com/BlockMedical/bc-ipfs is a web-based app that starts a local I
 a local `npm` web-server. Behind the scene, it also tap into Ethereum blockchain for you to interact with
 the Smart Contract. The wallet requires you to use FireFox browser to interact with Ethereum.
 
-1. Download the zip file from this Github repository https://github.com/BlockMedical/bc-ipfs/archive/draft-v0.1.zip
+1. Download the zip file from this Github repository https://github.com/BlockMedical/bc-ipfs/archive/master.zip
 2. Unzip it and run the command from a Terminal `run-dev.sh`
 3. Open Firefox and access http://localhost:3000
 4. Click on `choose` and start uploading your file
