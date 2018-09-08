@@ -1,10 +1,8 @@
 # BlockMedical
-This is a collection of the application that interact with the Ethereum smart contract for BlockMed tokens.
-The application here are incentivized to interact with the contract by contributing your data to IPFS and
-register them on Ethereum smart contract BMD (TBD-address). When you start integrating and interacting with
-the contract by uploading and registering your IPFS hash for your wallet, you will be granted `BMD` tokens
-from the Smart Contract that can be used ot interact with other applications build out that utilize the
-same Smart Contract and BMD ERC20 tokens.
+This is a collection of the application that interact with the Ethereum smart contract to **use** BMD tokens.
+The applications here are designed to utilize the code and data uploaded by using your BMD. 
+When you start integrating and interacting with the contract to download code and data, you will need access to your
+wallet to issue transactions that will use your `BMD` tokens designed in the Smart Contract and BLockMed eco-system.
 
 # How to Access Code and Data
 
