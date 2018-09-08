@@ -5,7 +5,8 @@ register them on Ethereum smart contract BMD. When you start integrating and int
 the contract by uploading and registering your IPFS hash for your wallet, you will be granted `BMD` tokens
 from the Smart Contract that can be used ot interact with other applications build out that utilize the
 same Smart Contract and BMD ERC20 tokens. In the future, when others access your code or data, you will notice that
-you will also obtain BMD tokens as part of the authorization for others to access your code and data.
+you will also obtain BMD tokens as part of the authorization for others to access your code and data. As a result,
+you will want to label your code and data as accurate as possible for others.
 
 # How to Upload Code and Data
 ## Web App for Browser
