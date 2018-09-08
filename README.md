@@ -13,16 +13,18 @@ the Smart Contract. The wallet requires you to use FireFox browser to interact w
 
 Prerequisite:
 1. You will need to have Docker installed first, see: https://docs.docker.com/install/
+2. (Firefox)[https://www.mozilla.org/] browser needs to be installed along with (MetaMask)[https://metamask.io/]
 
 Install and Run (For Mac OSX User):
 1. Download the zip file from this Github repository https://github.com/BlockMedical/bc-ipfs/archive/master.zip
 2. Unzip it and run the command from a Terminal `run.sh` or double-click it.
-3. Open Firefox and access http://localhost:3000
+3. Open **Firefox** and access http://localhost:3000
 4. Click on `choose` and start uploading your file
-5. Unlock your MetaMask Wallet and go to MEW Ethereum wallet https://www.myetherwallet.com/#contracts
-6. Enter the contract address `0x0861c0b2C9B7dAc3357598D08285329F0c724D44` (Ropsten) and open a text editor for the following file https://raw.githubusercontent.com/BlockMedical/BlockMedical/master/contract.abi.json, and copy/paste the content into the ABI section of MEW.
-7. Select the function `registerIPFS` in the drop down and copy/paste your IPFS hash your would like to register
-8. That's it. Your MetaMask wallet will provide you a transaction where you can keep track of your registration along with the token.  
+5. Unlock your *MetaMask* Wallet and go to MEW Ethereum wallet https://www.myetherwallet.com/#contracts
+6. In MEW, you will need to select the Ropstan **Testnet** network.
+7. Enter the contract address `0x0861c0b2C9B7dAc3357598D08285329F0c724D44` (Ropsten) and open a text editor for the following file https://raw.githubusercontent.com/BlockMedical/BlockMedical/master/contract.abi.json, and copy/paste the content into the ABI section of MEW.
+8. Select the function `registerIPFS` in the drop down and copy/paste your IPFS hash your would like to register
+9. That's it. Your MetaMask wallet will provide you a transaction where you can keep track of your registration along with the token.  
 
 # BMD Wallet - Under Development
 https://github.com/BlockMedical/BMDWallet is based on an iOS app from Qtum blockchain.
