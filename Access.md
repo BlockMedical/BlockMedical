@@ -3,6 +3,9 @@ This is a collection of the application that interact with the Ethereum smart co
 The applications here are designed to utilize the code and data uploaded by using your BMD. 
 When you start integrating and interacting with the contract to download code and data, you will need access to your
 wallet to issue transactions that will use your `BMD` tokens designed in the Smart Contract and BlockMed eco-system.
+The `BMD` consumed here goes back to the original (first) user that uploaded the code or data and registered with
+BlockMed Smart Contract, in other word, other users are benefiting from your access and usage of their code and data
+with your `BMD` token.
 
 # How to Access Code and Data
 
