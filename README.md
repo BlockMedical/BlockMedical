@@ -20,7 +20,7 @@ Install and Run (For Mac OSX User):
 3. Open Firefox and access http://localhost:3000
 4. Click on `choose` and start uploading your file
 5. Unlock your MetaMask Wallet and go to MEW Ethereum wallet https://www.myetherwallet.com/#contracts
-6. Enter the contract address `0x552D947C77c67401885aa46FC58C74Fd821cF337` (Ropsten) and open a text editor for the following file https://raw.githubusercontent.com/BlockMedical/BlockMedical/master/contract.abi.json, and copy/paste the content into the ABI section of MEW.
+6. Enter the contract address `0x0861c0b2C9B7dAc3357598D08285329F0c724D44` (Ropsten) and open a text editor for the following file https://raw.githubusercontent.com/BlockMedical/BlockMedical/master/contract.abi.json, and copy/paste the content into the ABI section of MEW.
 7. Select the function `registerIPFS` in the drop down and copy/paste your IPFS hash your would like to register
 8. That's it. Your MetaMask wallet will provide you a transaction where you can keep track of your registration along with the token.  
 
