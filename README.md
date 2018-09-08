@@ -6,7 +6,8 @@ the contract by uploading and registering your IPFS hash for your wallet, you wi
 from the Smart Contract that can be used ot interact with other applications build out that utilize the
 same Smart Contract and BMD ERC20 tokens.
 
-# Web App for Browser
+# How to Upload Code and Data
+## Web App for Browser
 https://github.com/BlockMedical/bc-ipfs is a web-based app that starts a local IPFS daemon along with
 a local `npm` web-server. Behind the scene, it also tap into Ethereum blockchain for you to interact with
 the Smart Contract. The wallet requires you to use FireFox browser to interact with Ethereum.
@@ -26,9 +27,10 @@ Install and Run (For Mac OSX User):
 8. Select the function `registerIPFS` in the drop down and copy/paste your IPFS hash your would like to register
 9. That's it. Your MetaMask wallet will provide you a transaction where you can keep track of your registration along with the token.  
 
-# BMD Wallet - Under Development
+## BMD Wallet - Under Development
 https://github.com/BlockMedical/BMDWallet is based on an iOS app from Qtum blockchain.
 We welcome the community to help out to build and enhance this to tap into our infrastructure and
 Ethereum Smart Contract.
 
-
+# How to Access Code and Data
+Stay Tune! It is coming.
