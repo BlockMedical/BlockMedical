@@ -31,6 +31,3 @@ Install and Run (For Mac OSX User):
 https://github.com/BlockMedical/BMDWallet is based on an iOS app from Qtum blockchain.
 We welcome the community to help out to build and enhance this to tap into our infrastructure and
 Ethereum Smart Contract.
-
-# How to Access Code and Data
-Stay Tune! It is coming.
