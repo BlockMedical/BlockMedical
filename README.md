@@ -13,7 +13,7 @@ the Smart Contract. The wallet requires you to use FireFox browser to interact w
 
 Prerequisite:
 1. You will need to have Docker installed first, see: https://docs.docker.com/install/
-2. (Firefox)[https://www.mozilla.org/] browser needs to be installed along with (MetaMask)[https://metamask.io/]
+2. [Firefox](https://www.mozilla.org/) browser needs to be installed along with [MetaMask](https://metamask.io/)
 
 Install and Run (For Mac OSX User):
 1. Download the zip file from this Github repository https://github.com/BlockMedical/bc-ipfs/archive/master.zip
