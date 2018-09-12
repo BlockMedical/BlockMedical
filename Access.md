@@ -16,5 +16,7 @@ Prerequisite:
 Install and Run:
 1. Download the app (TBD) that will provide you an interface to enter the data you would like to access. The app will have a pre-configured Smart Contract address.
 2. Open **Firefox** and unlock your MetaMask wallet.
-3. Click on **Request Access** and **Confirm** on the expected BMD token to spend.
-4. Now, your should see the download in progress. Meanwhile, you will see that your BMD token is consumed after the transaction is completed.
+3. Navigate the website (TBD) to discover the data you would like to access. Something like the following will be presented on the website.
+![Sample Access Layout](https://github.com/BlockMedical/BlockMedical/blob/master/sample_access_layout.png)
+4. Click on **Request Access** and **Confirm** on the expected BMD token to spend.
+5. Now, your should see the download in progress. Meanwhile, you will see that your BMD token is consumed after the transaction is completed.
