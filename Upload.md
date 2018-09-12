@@ -20,8 +20,10 @@ Prerequisite:
 
 Install and Run (For Mac OSX User):
 1. Download the zip file from this Github repository https://github.com/BlockMedical/bc-ipfs/archive/master.zip
-2. Unzip it and run the command from a Terminal `run.sh` or double-click it.
-3. Open **Firefox** and access http://localhost:3000
+2. Unzip it and run the command from a Terminal `run.sh` or double-click it. You should see a console pop up and see the following screen running in the background.
+![Docker IPFS NPM](https://github.com/BlockMedical/BlockMedical/blob/master/docker_ipfs_npm_running.png)
+3. Open **Firefox** and access http://localhost:3000 and you should see the following screen shows up
+![Docker IPFS UI](https://github.com/BlockMedical/BlockMedical/blob/master/firefox_localhost3000.png)
 4. Click on `choose` and start uploading your file
 5. Unlock your *MetaMask* Wallet and go to MEW Ethereum wallet https://www.myetherwallet.com/#contracts
 6. In MEW, you will need to select the Ropstan **Testnet** network.
