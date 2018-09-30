@@ -10,3 +10,8 @@ The following examples uses Firefox MetaMask:
 3. ![Select Custom ERC20 Token to Add](https://github.com/BlockMedical/BlockMedical/blob/master/docs/add_token_mm3.png)
 4. ![Confirm and Add Token](https://github.com/BlockMedical/BlockMedical/blob/master/docs/add_token_mm4.png)
 5. ![Showing Current BMD Token Balance](https://github.com/BlockMedical/BlockMedical/blob/master/docs/add_token_mm5.png)
+
+Exchange BMD with your Ethereum:
+
+1. ![Send Ethereum](https://github.com/BlockMedical/BlockMedical/blob/master/docs/ex_token_mm1.png)
+2. ![Send Ethereum](https://github.com/BlockMedical/BlockMedical/blob/master/docs/ex_token_mm2.png)
