@@ -15,3 +15,12 @@ Exchange BMD with your Ethereum:
 
 1. ![Send Ethereum](https://github.com/BlockMedical/BlockMedical/blob/master/docs/ex_token_mm1.png)
 2. ![Send Ethereum](https://github.com/BlockMedical/BlockMedical/blob/master/docs/ex_token_mm2.png)
+
+To Verify Your Transaction:
+
+Utility Tokens
+1. If yuou are exchaging for Utility tokens, you will see your balance here:
+https://ropsten.etherscan.io/token/0x686205e2e139cf7f4fe0e11de7c1f0f11770fe94#balances
+
+Investment Tokens
+1. You can go to the public Ethereum blockchain website to verify your transaction. You will see your wallet address appearing here: https://ropsten.etherscan.io/token/0xe9fa8c7f14207e9354f5d65207a410fc6afed49f#balances 
