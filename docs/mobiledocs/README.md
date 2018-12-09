@@ -8,6 +8,7 @@ Here is an example to show you how to exchange for utility BlockMed tokens via o
 
 The QR code for BlockMed contract, scan here:
 
+Contract Address: 0x4C97efc3604FCaEE022E1Ef8FD567531F364E1aa
 ![QR Code](https://github.com/BlockMedical/BlockMedical/raw/master/docs/mobiledocs/tradecontract_QRcode.png)
 
 To Verify Your Transaction:
