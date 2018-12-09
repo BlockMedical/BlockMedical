@@ -3,6 +3,8 @@ You can download our mobile app from Apple store:
 ![=>](https://github.com/BlockMedical/BlockMedical/blob/master/docs/mobiledocs/applestore_download.png)
 
 * Here is an example to show you how to exchange for utility BlockMed tokens
+![=>](https://github.com/BlockMedical/BlockMedical/blob/master/docs/mobiledocs/exchange_bmd_example.gif)
+
 * The QR code for BlockMed contract, scan here:
 
 ![QR Code](https://github.com/BlockMedical/BlockMedical/raw/master/docs/mobiledocs/tradecontract_QRcode.png)
