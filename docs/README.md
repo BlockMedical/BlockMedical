@@ -1,6 +1,6 @@
 You can download our mobile app from Apple store:
 
-![=>](https://itunes.apple.com/us/app/trust-ethereum-wallet/id1288339409?mt=8)
+https://itunes.apple.com/us/app/trust-ethereum-wallet/id1288339409?mt=8
 
 *Public Sale Address*
 0x1916e9A99693090B6563d1C57b410A84aE82A8d7
