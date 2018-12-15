@@ -5,7 +5,7 @@ https://itunes.apple.com/us/app/trust-ethereum-wallet/id1288339409?mt=8
 *Public Sale Address*
 0xAFDaA366213f08f1121a528d757c4d4F22dfaC29
 1. Send Eth to the above address or use or mobile wallet and scan the follow QR code to send Ethereum to it.
-![QR Code](https://github.com/BlockMedical/BlockMedical/raw/master/docs/mobiledocs/tradecontract_QRcode.png)
+![QR Code](https://github.com/BlockMedical/BlockMedical/raw/master/docs/mobiledocs/tradecontract_QRcode.mainnet.png)
 
 Here is an example to show you how to exchange for utility BlockMed tokens via our mobile app
 
