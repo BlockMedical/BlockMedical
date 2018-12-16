@@ -4,7 +4,7 @@ In order to exchange BMD tokens with Ethereum, you will need to have:
 * You will need to deposit Ethereum to your ERC20 Ethereum wallet. You can go to exchanges such as Coinbase or Binance to fund your ERC20 Ethereum wallet.
 * After funding your wallet with Ethereum, you can exchange for BMD tokens.
 
-If you need instructions to download and install Metamask, click [here](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+If you need instructions to download and install Metamask, click [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/chrome_metamask_installation.md)
 
 The following examples uses Chrome with MetaMask extension:
 
