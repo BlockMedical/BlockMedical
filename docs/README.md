@@ -10,6 +10,8 @@
 Utility BlockMed Tokens
 If you are exchaging for Utility tokens, you will see your balance [here](https://etherscan.io/address/0xafdaa366213f08f1121a528d757c4d4f22dfac29)
 
-For desktop users who want to use Metamask, please see instructions [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/metamask_exchange_instructions.md)
+# Need an ERC20 Wallet?
+
+For desktop users who want need a wallet, please see instructions [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/metamask_exchange_instructions.md)
 
 For mobile users who needs instructions, please see [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/mobiledocs/README.md)
