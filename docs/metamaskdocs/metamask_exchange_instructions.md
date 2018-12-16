@@ -1,6 +1,6 @@
 In order to exchange BMD tokens with Ethereum, you will need to have:
 
-* A wallet such as MetaMask if using Firefox or using [MyEtherWallet](https://www.myetherwallet.com)
+* A wallet such as [MetaMask](https://metamask.io) if using Firefox or Chrome or using [MyEtherWallet](https://www.myetherwallet.com)
 * Some Ethereum to exchange
 
 The following examples uses Firefox MetaMask:
@@ -19,6 +19,5 @@ Exchange BMD with your Ethereum:
 To Verify Your Transaction:
 
 Utility Tokens
-1. If yuou are exchaging for Utility tokens, you will see your balance here:
-https://ropsten.etherscan.io/token/0x686205e2e139cf7f4fe0e11de7c1f0f11770fe94#balances
+1. If yuou are exchaging for Utility tokens, you will see your balance [here](https://etherscan.io/address/0xafdaa366213f08f1121a528d757c4d4f22dfac29)
 
