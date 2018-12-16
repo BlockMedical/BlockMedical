@@ -1,4 +1,5 @@
 # Public Sale Address
+
 **0xAFDaA366213f08f1121a528d757c4d4F22dfaC29**
 
 1. Use any ERC20 compatible Ethereum wallet and send Eth to the above address OR scan the following QR code.
@@ -10,7 +11,7 @@
 Utility BlockMed Tokens
 If you are exchaging for Utility tokens, you will see your balance [here](https://etherscan.io/address/0xafdaa366213f08f1121a528d757c4d4f22dfac29)
 
-# Need an ERC20 Wallet?
+# Obtain an ERC20 Wallet to get BlockMed tokens?
 
 For desktop users who want need a wallet, please see instructions [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/metamask_exchange_instructions.md)
 
