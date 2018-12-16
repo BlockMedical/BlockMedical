@@ -3,9 +3,6 @@
 1. Send Eth to the above address or use a Ethereuem mobile wallet and scan the follow QR code to send Ethereum to it.
 ![QR Code](https://github.com/BlockMedical/BlockMedical/raw/master/docs/mobiledocs/tradecontract_QRcode.mainnet.png)
 
-If you don't have a wallet, you can download our mobile app from Apple store:
-(TBD - replace link to the real on on Apple Store) https://itunes.apple.com/us/app/trust-ethereum-wallet/id1288339409?mt=8
-
 Here is an example to show you how to exchange for utility BlockMed tokens via our mobile app
 
 ![=>](https://github.com/BlockMedical/BlockMedical/blob/master/docs/mobiledocs/exchange_bmd_example.gif)
