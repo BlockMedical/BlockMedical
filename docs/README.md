@@ -1,7 +1,7 @@
 # Public Sale Address
 **0xAFDaA366213f08f1121a528d757c4d4F22dfaC29**
 
-1. Use any ERC20 compatible Ethereum wallet and send Eth to the above address OR and scan the following QR code.
+1. Use any ERC20 compatible Ethereum wallet and send Eth to the above address OR scan the following QR code.
 2. Do **NOT** send Ethereum directly from exchanges (e.g. Coinbase)
 ![QR Code](https://github.com/BlockMedical/BlockMedical/raw/master/docs/mobiledocs/tradecontract_QRcode.mainnet.png)
 
