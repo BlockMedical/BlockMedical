@@ -9,16 +9,17 @@ If you need instructions to download and install Metamask, click [here](https://
 The following examples uses Chrome with MetaMask extension:
 
 # How to Add ERC20 BMD Symbol to your ERC20 Wallet
-1. ![Open MetaMask Wallet](https://github.com/BlockMedical/BlockMedical/blob/master/docs/add_token_mm1.png)
-2. ![Add BMD Token Entry](https://github.com/BlockMedical/BlockMedical/blob/master/docs/add_token_mm2.png)
-3. ![Select Custom ERC20 Token to Add](https://github.com/BlockMedical/BlockMedical/blob/master/docs/add_token_mm3.png)
-4. ![Confirm and Add Token](https://github.com/BlockMedical/BlockMedical/blob/master/docs/add_token_mm4.png)
-5. ![Showing Current BMD Token Balance](https://github.com/BlockMedical/BlockMedical/blob/master/docs/add_token_mm5.png)
 
-# How to Exchange BMD with your Ethereum (a Metamask example)
+The BMD Symbol may not be default or populated by Metamask from the beginning, in order to see this on
+Metamask, you will need to register the BMD Symbol Address which is **0xD9a2Dc793E1BBce46e2A7E766D7C76FDaF465E48** (Do **NOT** send Ethereum to this address, this is not the public sales address).
 
-1. ![Send Ethereum](https://github.com/BlockMedical/BlockMedical/blob/master/docs/ex_token_mm1.png)
-2. ![Send Ethereum](https://github.com/BlockMedical/BlockMedical/blob/master/docs/ex_token_mm2.png)
+If you need more instructions on how to add this to Metamask, see [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/add_token_symboles/README.md)
+
+# Exchange ERC20 BMD with Ethereum
+
+Now you have a Metamask wallet, you can go back to the public sales page [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/README.md)
+
+If you need more instructions on how to exchange BMD, see [here](https://github.com/BlockMedical/BlockMedical/tree/master/docs/metamaskdocs/exchange_bmds/README.md)
 
 # To Verify Your Transaction:
 
