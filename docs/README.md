@@ -12,7 +12,6 @@ Here is an example to show you how to exchange for utility BlockMed tokens via o
 To Verify Your Transaction:
 
 Utility BlockMed Tokens
-If you are exchaging for Utility tokens, you will see your balance here:
-https://etherscan.io/address/0xafdaa366213f08f1121a528d757c4d4f22dfac29
+If you are exchaging for Utility tokens, you will see your balance [here](https://etherscan.io/address/0xafdaa366213f08f1121a528d757c4d4f22dfac29)
 
 For desktop users who want to use Metamask, please see instructions [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/metamask_exchange_instructions.md)
