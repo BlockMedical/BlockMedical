@@ -1,4 +1,4 @@
-# Obtain an ERC20 Wallet to get BlockMed tokens?
+# Obtain an ERC20 Wallet to get BMD tokens
 
 For desktop users who want need a wallet, please see instructions [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/metamask_exchange_instructions.md)
 
