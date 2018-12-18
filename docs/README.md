@@ -2,8 +2,7 @@
 
 For desktop users who needs a wallet, please see instructions [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/metamask_exchange_instructions.md)
 
-# Have an ERC20 Wallet Already?
-**Public Sale Address**
+# Have an ERC20 Wallet Already? Our Public Sale Address ↓
 # **0xAFDaA366213f08f1121a528d757c4d4F22dfaC29**
 
 1. Use any ERC20 compatible Ethereum wallet and send Eth to the above address OR scan the following QR code.
