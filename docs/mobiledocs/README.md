@@ -1,4 +1,4 @@
-**Public Sale Address**
+# **Public Sale Address**
 **0xAFDaA366213f08f1121a528d757c4d4F22dfaC29**
 
 Use any ERC20 compatible Ethereum wallet and send Eth to the above address.
