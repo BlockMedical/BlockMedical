@@ -8,6 +8,3 @@ Use any ERC20 compatible Ethereum wallet and send Eth to the above address.
 Utility BlockMed Tokens
 If you are exchaging for Utility tokens, you will see your balance [here](https://etherscan.io/address/0xafdaa366213f08f1121a528d757c4d4f22dfac29)
 
-# Example from Other Wallets
-More coming. Stay tune. Please also let us know if there are other ERC20 Ethereum wallets you need help with
-and we will be glad to provide those instructions.
