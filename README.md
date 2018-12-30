@@ -14,8 +14,8 @@ You can review the [BMV-USD Exchange Rate repository here](https://github.com/Bl
 The community can review the smart contracts source code above, however, they will not be able to modify or change the contracts. The public keys listed below that manage those contracts are listed below and we follow industry best practice to secure the private ones.
 
 ### BMD Public Keys
-- CustomizeERC20Token: The BMD ERC20 token supply definition. (`0x0Efd8e7bD66981F5F06e3791A271C3F1256468e4`)
-- BMDUtilityContract: The exchange contract for BMD. (`0x19b051079A35F29aE38B0Bc735b5C5cABe4173B6`)
+- BMDUtilityContract: The BMD ERC20 token supply definition. (`0x0Efd8e7bD66981F5F06e3791A271C3F1256468e4`)
+- BMD-USD-ExchangeContract: The exchange contract for BMD. (`0x19b051079A35F29aE38B0Bc735b5C5cABe4173B6`)
 - UploadAccessReward: The upload and access reward based on file size definition. (`0x0000000000000000000000000000000000000000`)
 
 ### BMV Public Keys
