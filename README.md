@@ -15,8 +15,8 @@ The community can review the smart contracts source code above, however, they wi
 
 ### BMD Public Keys
 - CustomizeERC20Token: The BMD ERC20 token supply definition. (`0x0Efd8e7bD66981F5F06e3791A271C3F1256468e4`)
-- UploadAccessReward: The upload and access reward based on file size definition. (`0x0000000000000000000000000000000000000000`)
 - BMDUtilityContract: The exchange contract for BMD. (`0x19b051079A35F29aE38B0Bc735b5C5cABe4173B6`)
+- UploadAccessReward: The upload and access reward based on file size definition. (`0x0000000000000000000000000000000000000000`)
 
 ### BMV Public Keys
 - BMVInvestmentContract: The BMV ERc20 token supply definition. (`0x50f5977dAEcb82856A238F8C3196E89cf73e5aeB`)
