@@ -11,7 +11,7 @@ You can review the source code in the [BMV investment contract](https://github.c
 You can review the [BMV-USD Exchange Rate repository here](https://github.com/BlockMedical/BMV-ventureasset/blob/v0.3.0/contracts/BMV-USD-ExchangeContract.sol) and the [BMV circulation total supply repository here](https://github.com/BlockMedical/BMV-ventureasset/blob/v0.3.0/contracts/BMVInvestmentContract.sol#L58). The public chain information displaying the BMV total supply can be found [here](https://etherscan.io/token/0x76eec17d8f2a0fad17c9df63524799130834d9d2).
 
 ## Key Management Policy
-The community can review the smart contracts source code above, however, they will not be able to modify or change the contracts. The keys that manage those contracts are listed below and we follow industry best practice to secure them.
+The community can review the smart contracts source code above, however, they will not be able to modify or change the contracts. The public keys listed below that manage those contracts are listed below and we follow industry best practice to secure them.
 
 ### BMD Public Keys
 - CustomizeERC20Token: The BMD ERC20 token supply definition. (`0x0Efd8e7bD66981F5F06e3791A271C3F1256468e4`)
