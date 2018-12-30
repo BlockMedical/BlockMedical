@@ -6,6 +6,7 @@ Read more on our [whitepaper](https://www.slideshare.net/secret/4CGbQSZ5xrHU6w) 
 # Smart Contract and Blockchain Privacy
 ## Ethereum and Smart Contract
 We provide the ERC20 on Ethereum for the incentive of sharing data and code ownership within the BlockMed community.
+You can review the source code in the [BMD-smartcontract](https://github.com/BlockMedical/BMD-smartcontract) repository.
 
 ## Blockchain Privacy
 We need to maintain privacy on user's data such as health records (HIPAA) or privacy on user inputs for secure computation involving Enigma, Ekiden, and SGX hardware, etc.
