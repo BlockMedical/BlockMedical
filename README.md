@@ -4,9 +4,13 @@ The proposed open protocol will utilize a public Ethereum[7] blockchain for the 
 Read more on our [whitepaper](https://www.slideshare.net/secret/4CGbQSZ5xrHU6w) page 6.
 
 # Smart Contract and Blockchain Privacy
-## Ethereum and Smart Contract
+## Ethereum and BMD Utility Smart Contract
 We provide the ERC20 on Ethereum for the incentive of sharing data and code ownership within the BlockMed community.
 You can review the source code in the [BMD-smartcontract](https://github.com/BlockMedical/BMD-smartcontract) repository.
+
+## Ethereum and BMV Investment Contract
+We provide the ERC20 on Ethereum for the funding and investment of the BlockMed community.
+You can review the source code in the [BMV investment contract](https://github.com/BlockMedical/BMV-ventureasset) repository.
 
 ## Blockchain Privacy
 We need to maintain privacy on user's data such as health records (HIPAA) or privacy on user inputs for secure computation involving Enigma, Ekiden, and SGX hardware, etc.
