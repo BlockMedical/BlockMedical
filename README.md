@@ -10,7 +10,7 @@ You can review the source code in the [BMD smartcontract](https://github.com/Blo
 
 ## Ethereum and BMV Investment Contract
 We provide the ERC20 on Ethereum for the funding and investment of the BlockMed community.
-You can review the [BMV-USD Exchange Rate](https://github.com/BlockMedical/BMV-ventureasset) repository and the BMV circulation supply [here](https://etherscan.io/token/0x76eec17d8f2a0fad17c9df63524799130834d9d2).
+You can review the [BMV-USD Exchange Rate repository here](https://github.com/BlockMedical/BMV-ventureasset/tree/v0.3.0/contracts) and the BMV circulation total supply [here](https://github.com/BlockMedical/BMV-ventureasset/blob/v0.3.0/contracts/BMVInvestmentContract.sol#L58). The public chain information displaying the total supply can be found [here](https://etherscan.io/token/0x76eec17d8f2a0fad17c9df63524799130834d9d2).
 
 ## Blockchain Privacy
 We need to maintain privacy on user's data such as health records (HIPAA) or privacy on user inputs for secure computation involving Enigma, Ekiden, and SGX hardware, etc.
