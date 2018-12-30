@@ -2,7 +2,7 @@
 ## Ethereum and BMD Utility Smart Contract
 We provide the ERC20 on Ethereum for the incentive of sharing data and code ownership within the BlockMed community.
 You can review the source code in the [BMD smartcontract](https://github.com/BlockMedical/BMD-smartcontract/tree/encryption-v0.5.3/contracts) repository.
-You can review the [BMD-USD Exchange Rate repository here](https://github.com/BlockMedical/BMD-smartcontract/blob/encryption-v0.5.3/contracts/BMDUtilityContract.sol) and the [BMD circulation total supply repository here](https://github.com/BlockMedical/BMD-smartcontract/blob/encryption-v0.5.3/contracts/CustomizedERC20Token.sol#L65). The public chain information displaying the BMD total supply can be found [here](https://etherscan.io/token/0xd9a2dc793e1bbce46e2a7e766d7c76fdaf465e48).
+You can review the [BMD-USD Exchange Rate repository here](https://github.com/BlockMedical/BMD-smartcontract/blob/encryption-v0.5.3/contracts/BMD-USD-ExchangeContract.sol) and the [BMD circulation total supply repository here](https://github.com/BlockMedical/BMD-smartcontract/blob/encryption-v0.5.3/contracts/BMDUtilityContract.sol#L65). The public chain information displaying the BMD total supply can be found [here](https://etherscan.io/token/0xd9a2dc793e1bbce46e2a7e766d7c76fdaf465e48).
 
 
 ## Ethereum and BMV Investment Contract
@@ -14,13 +14,13 @@ You can review the [BMV-USD Exchange Rate repository here](https://github.com/Bl
 The community can review the smart contracts source code above, however, they will not be able to modify or change the contracts. The public keys listed below that manage those contracts are listed below and we follow industry best practice to secure the private ones.
 
 ### BMD Public Keys
-- BMDUtilityContract: The BMD ERC20 token supply definition. (`0x0Efd8e7bD66981F5F06e3791A271C3F1256468e4`)
-- BMD-USD-ExchangeContract: The exchange contract for BMD. (`0x19b051079A35F29aE38B0Bc735b5C5cABe4173B6`)
-- UploadAccessReward: The upload and access reward based on file size definition. (`0x0000000000000000000000000000000000000000`)
+- **BMDUtilityContract**: The BMD ERC20 token supply definition. (`0x0Efd8e7bD66981F5F06e3791A271C3F1256468e4`)
+- **BMD-USD-ExchangeContract**: The exchange contract for BMD. (`0x19b051079A35F29aE38B0Bc735b5C5cABe4173B6`)
+- **UploadAccessReward**: The upload and access reward based on file size definition. (`0x0000000000000000000000000000000000000000`)
 
 ### BMV Public Keys
-- BMVInvestmentContract: The BMV ERc20 token supply definition. (`0x50f5977dAEcb82856A238F8C3196E89cf73e5aeB`)
-- BMV-USD-ExchangeContract: The exchange contract for BMV. (`0xC82bDbF57237F934D73E89BC4c7a8D104240A545`)
+- **BMVInvestmentContract**: The BMV ERc20 token supply definition. (`0x50f5977dAEcb82856A238F8C3196E89cf73e5aeB`)
+- **BMV-USD-ExchangeContract**: The exchange contract for BMV. (`0xC82bDbF57237F934D73E89BC4c7a8D104240A545`)
 
 # BlockMedical and Privacy
 The proposed open protocol will utilize a public Ethereum[7] blockchain for the smart contract execution, while the HIPAA compliant patient identifier data will be stored off-chain such as an AWS encrypted databases as necessary for proper onboarding of medical sensor usage. The private keys of public Ethereum blockchain can be kept on mobile app of patient. In case of loss of mobile app/smart phone, this unique key can have appropriate recovery or replacement mechanisms provided by BlockMed[​ 8]​. Furthermore, the API kit can be extended to support data encryption on top of IPFS as an extra layer of security to keep data encrypted and give users full control of their data. In addition to user data, the open protocol also provides a channel to compute Private Contracts, in other word, confidential code that can be service through off-chain service provider that provides TEE (Intel SGX) backed compute-nodes[9][10]. In Oasis Lab’s Ekiden[11] protocol, clients send inputs to confidentiality-preserving smart contracts, which are executed within a TEE at any compute node. The blockchain stores encrypted contract state.
