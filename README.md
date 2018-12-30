@@ -6,7 +6,7 @@ Read more on our [whitepaper](https://www.slideshare.net/secret/4CGbQSZ5xrHU6w) 
 # Smart Contract and Blockchain Privacy
 ## Ethereum and BMD Utility Smart Contract
 We provide the ERC20 on Ethereum for the incentive of sharing data and code ownership within the BlockMed community.
-You can review the source code in the [BMD-smartcontract](https://github.com/BlockMedical/BMD-smartcontract) repository.
+You can review the source code in the [BMD smartcontract](https://github.com/BlockMedical/BMD-smartcontract) repository.
 
 ## Ethereum and BMV Investment Contract
 We provide the ERC20 on Ethereum for the funding and investment of the BlockMed community.
