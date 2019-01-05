@@ -8,8 +8,7 @@ The following examples uses Chrome with MetaMask extension:
 
 ## How to Add ERC20 BMD Symbol to your ERC20 Wallet
 
-The BMD Symbol may not be default or populated by Metamask from the beginning, in order to see this on
-Metamask, you will need to register the BMD Symbol Address which is **0xD9a2Dc793E1BBce46e2A7E766D7C76FDaF465E48** (Do **NOT** send Ethereum to this address, this is not the public sales address).
+TYou will need to register the BMD Symbol Address which is **0xD9a2Dc793E1BBce46e2A7E766D7C76FDaF465E48** (Do **NOT** send Ethereum to this address, this is not the public sales address) with your Metamask wallet.
 
 If you need more instructions on how to add this to Metamask, see [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/add_token_symboles/README.md)
 
