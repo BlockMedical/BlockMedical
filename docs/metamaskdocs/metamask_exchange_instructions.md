@@ -16,6 +16,8 @@ If you need more instructions on how to add this to Metamask, see [here](https:/
 
 Now you have a Metamask wallet, you can go back to the public sales page [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/README.md)
 
+If you need more instructions on how to purchase ERC20 BMD Utility Tokens with Ethereum in Metamask, see here.
+
 ## To Verify Your Transaction:
 
 If you have purchased **ERC20 BMD Utility Tokens** with Ethereum, you will see your balance [here](https://etherscan.io/address/0x434d7caeb4d6332d5b57ab1d44036f49aa321f8c)
