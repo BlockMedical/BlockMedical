@@ -16,8 +16,6 @@ If you need more instructions on how to add this to Metamask, see [here](https:/
 
 Now you have a Metamask wallet, you can go back to the public sales page [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/README.md)
 
-If you need more instructions on how to exchange BMD, see [here](https://github.com/BlockMedical/BlockMedical/tree/master/docs/metamaskdocs/exchange_bmds/README.md)
-
 ## To Verify Your Transaction:
 
 Utility Tokens
