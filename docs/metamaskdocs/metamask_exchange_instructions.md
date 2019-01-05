@@ -13,7 +13,7 @@ Metamask, you will need to register the BMD Symbol Address which is **0xD9a2Dc79
 
 If you need more instructions on how to add this to Metamask, see [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/add_token_symboles/README.md)
 
-# Use Ethereum to purchase ERC20 BMD Utility token
+# Use Ethereum to Purchase ERC20 BMD Utility Token
 
 Now you have a Metamask wallet, you can go back to the public sales page [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/README.md)
 
