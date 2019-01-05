@@ -18,6 +18,6 @@ Now you have a Metamask wallet, you can go back to the public sales page [here](
 
 ## To Verify Your Transaction:
 
-Utility Tokens
-1. If yuou are exchaging for Utility tokens, you will see your balance [here](https://etherscan.io/address/0x434d7caeb4d6332d5b57ab1d44036f49aa321f8c)
+**ERC20 BMD Utility Token**
+If you have purchased **ERC20 BMD Utility Tokens** with Ethereum, you will see your balance [here](https://etherscan.io/address/0x434d7caeb4d6332d5b57ab1d44036f49aa321f8c)
 
