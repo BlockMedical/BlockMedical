@@ -19,5 +19,5 @@ Now you have a Metamask wallet, you can go back to the public sales page [here](
 ## To Verify Your Transaction:
 
 Utility Tokens
-1. If yuou are exchaging for Utility tokens, you will see your balance [here](https://etherscan.io/address/0xafdaa366213f08f1121a528d757c4d4f22dfac29)
+1. If yuou are exchaging for Utility tokens, you will see your balance [here](https://etherscan.io/address/0x434d7caeb4d6332d5b57ab1d44036f49aa321f8c)
 
