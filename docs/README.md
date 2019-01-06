@@ -1,3 +1,5 @@
+**The BMD token is a utility token that is NOT and does NOT need to be listed on any exchanges to be functional. We are offering our app users very innovative way to track their upload and accessing of code/data in order to participate in building out a medical IoT network that provides secure, immutable record of ownership of users medical IoT data.  BMD tokens cannot be used to purchase or exchange for other tokens.**
+
 ## Obtain an ERC20 Wallet to get BMD Utility Tokens
 
 For desktop users who needs a wallet, please see instructions [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/metamask_exchange_instructions.md)
