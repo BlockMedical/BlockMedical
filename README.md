@@ -19,7 +19,7 @@ The community can review the smart contracts source code above, however, they wi
 - **UploadAccessReward**: The upload and access reward based on file size definition. (`0x0000000000000000000000000000000000000000`)
 
 ### BMV Public Keys
-- **BMVInvestmentContract**: The BMV ERc20 token supply definition. (`0x50f5977dAEcb82856A238F8C3196E89cf73e5aeB`)
+- **BMVInvestmentContract**: The BMV ERC20 token supply definition. (`0x50f5977dAEcb82856A238F8C3196E89cf73e5aeB`)
 - **BMV-USD-ExchangeContract**: The exchange contract for BMV. (`0xC82bDbF57237F934D73E89BC4c7a8D104240A545`)
 
 # BlockMedical and Privacy
