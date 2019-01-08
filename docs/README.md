@@ -3,7 +3,8 @@
 ## Obtain an ERC20 Wallet to get BMD Utility Tokens (1 BMD Utility Token = $1 USD)
 
 For desktop users who needs a wallet, please see instructions [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/metamask_exchange_instructions.md).
-Click [here](https://itunes.apple.com/us/app/blockmed/id1447441652) to download BlockMed mobile app from Apple Store.
+
+For iOS users, click [here](https://itunes.apple.com/us/app/blockmed/id1447441652) to download BlockMed mobile app from Apple Store.
 
 ## Add ERC20 BMD Utility Symbol
 You will need to copy the below **ERC20 BMD Utility Symbol Address** ↓ when you follow the official metamask documentation [here](https://metamask.zendesk.com/hc/en-us/articles/360015489031-Adding-and-Managing-Tokens-ERC20-In-The-New-UI).
