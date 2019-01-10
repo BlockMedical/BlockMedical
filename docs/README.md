@@ -16,6 +16,7 @@ Our **ERC20 BMD Utility Symbol Address** (This is **NOT** the public sale addres
 
 1. Use any ERC20 compatible Ethereum wallet and send Eth to the above address OR scan the following QR code.
 2. Do **NOT** send Ethereum directly from exchanges (e.g. Coinbase, Binance)
+
 ![QR Code](https://github.com/BlockMedical/BlockMedical/raw/master/docs/mobiledocs/tradecontract_QRcode.mainnet.20190109.png)
 
 ## To Verify Your Transaction:
