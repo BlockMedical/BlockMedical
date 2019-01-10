@@ -8,7 +8,7 @@ The following examples uses Chrome with MetaMask extension:
 
 ## How to Add ERC20 BMD Symbol to your ERC20 Wallet
 
-You will need to register the BMD Symbol Address which is **0xD9a2Dc793E1BBce46e2A7E766D7C76FDaF465E48** (Do **NOT** send Ethereum to this address, this is not the public sales address) with your Metamask wallet.
+You will need to register the BMD Symbol Address which is **0x5862A9935Aa62Ca329f679933491057413Ce2943** (Do **NOT** send Ethereum to this address, this is not the public sales address) with your Metamask wallet.
 
 If you need more instructions on how to add this to Metamask, see [here](https://github.com/BlockMedical/BlockMedical/blob/master/docs/metamaskdocs/add_token_symboles/README.md)
 
@@ -20,5 +20,5 @@ If you need more instructions on how to purchase ERC20 BMD Utility Tokens with E
 
 ## To Verify Your Transaction:
 
-If you have purchased **ERC20 BMD Utility Tokens** with Ethereum, you will see your balance [here](https://etherscan.io/address/0x434d7caeb4d6332d5b57ab1d44036f49aa321f8c)
+If you have purchased **ERC20 BMD Utility Tokens** with Ethereum, you will see your balance [here](https://etherscan.io/address/0xdae7104526faf336c026999f154f6cdeae58bb2d)
 
